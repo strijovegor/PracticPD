@@ -13,7 +13,7 @@
 [ссылка](https://docs.google.com/document/d/1WJ3XPCPjKEsWSffAxWs8wA7u5U--0xhzGxwSymBUAoU/edit?usp=sharing)
 
 ## ИСР 1.5
-[ссылка]()
+[ссылка](https://github.com/strijovegor/PracticPD/blob/main/Report_2_20210524_.pdf)
 
 ## ИСР 1.6
 [ссылка]()
